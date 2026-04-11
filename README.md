@@ -27,10 +27,6 @@ Play the game here:
 
 ---
 
-## 📸 Screenshot
-![Game Screenshot](screenshot.png)
-
----
 
 ## 🛠️ How to Run Locally
 1. Clone the repository:
